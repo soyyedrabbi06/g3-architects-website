@@ -238,6 +238,30 @@ main > section{
 /* sponsor style end */
 
 
+
+/* footer style start */
+footer{
+    max-width: 1440px;
+    margin: 130px auto;
+    border-radius: 8px;
+}
+
+.footer-content{
+    justify-content: center;
+    align-items: center;
+}
+
+.all-reserved{
+    padding: 40px 410px;
+    /* text-align: center; */
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+}
+
+/* footer style end */
+
+
 /* Responsive media query (576px) */
 @media screen and (max-width: 576px) {
     .navbar,
